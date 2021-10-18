@@ -17,7 +17,7 @@ jobs:
     steps:
       - checkout
       - run:
-          echo "A FIrst Hello"
+          echo "A FIrst Hello man"
       
 
 # Invoke jobs via workflows
